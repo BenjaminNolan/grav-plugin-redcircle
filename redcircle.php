@@ -20,7 +20,7 @@ use RocketTheme\Toolbox\Event\Event;
 
 class RedcirclePlugin extends Plugin
 {
-    const REDCIRCLE_REGEX = '(?:https?:\/\/api\.podcache\.net\/embedded-player\/sh\/(?<showId>[a-zA-Z0-9-]+)\/ep\/(?<episodeId>[a-zA-Z0-9-]+))';
+    const REDCIRCLE_REGEX = '(?:https?:\/\/(?:api\.podcache\.net|redcircle\.com)\/(?:embedded-player\/sh|shows)\/(?<showId>[a-zA-Z0-9-]+)\/ep(?:isodes)?\/(?<episodeId>[a-zA-Z0-9-]+))';
 
     /**
      * Return a list of subscribed events.

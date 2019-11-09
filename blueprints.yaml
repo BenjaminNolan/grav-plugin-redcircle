@@ -1,7 +1,7 @@
 name: RedCircle
 version: 3.0.1
 description: "**RedCircle** is a simple plugin that converts markdown links or shortcodes into responsive embeds."
-icon: redcircle
+icon: podcast
 author:
   name: Benjamin Nolan
   email: benjamin.nolan@studiovinari.com

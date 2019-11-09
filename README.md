@@ -27,6 +27,7 @@ You should now have all the plugin files under
 ```
 enabled: true
 built_in_css: true
+add_editor_button: true
 ```
 
 If you need to change any value, then the best process is to copy the [redcircle.yaml](redcircle.yaml) file into your `users/config/plugins/` folder (create it if it doesn't exist), and then modify there.  This will override the default settings.

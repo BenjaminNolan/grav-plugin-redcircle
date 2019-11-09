@@ -72,4 +72,5 @@ As of version `3.0` you can now use an alternative _shortcode_ syntax that suppo
 ```
 
 [grav]: http://github.com/getgrav/grav
+[grav-plugin-youtube]: https://github.com/getgrav/grav-plugin-youtube
 

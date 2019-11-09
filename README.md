@@ -1,6 +1,6 @@
 # Grav RedCircle Plugin
 
-`RedCircle` is a simple [Grav][grav] Plugin that converts markdown links into responsive embeds for RedCircle content.
+`RedCircle` is a simple [Grav][grav] Plugin that converts markdown links into responsive embeds for RedCircle content. It is based on the [grav-plugin-youtube][grav-plugin-youtube].
 
 # Installation
 

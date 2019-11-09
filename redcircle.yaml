@@ -1,4 +1,6 @@
 enabled: true
 built_in_css: true
 add_editor_button: true
+player_parameters:
+  placeholder: true
 

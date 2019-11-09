@@ -1,0 +1,15 @@
+{
+   "project":"grav-plugin-redcircle",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "theme":[
+               {
+                  "source":"/",
+                  "destination":"/user/plugins/redcircle"
+               }
+            ]
+         }
+      }
+   }
+}
